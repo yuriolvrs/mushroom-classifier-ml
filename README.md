@@ -29,12 +29,7 @@ Rather than focusing solely on model performance, this project emphasizes unders
 - **Platform:** Jupyter Notebook / Google Colab  
 
 ## Project Context
-This project was developed as Major Course Output 3 (MCO3) for **CSINTSY – Introduction to Intelligent Systems** at De La Salle University.
-
-It addresses the following learning outcomes:
-
-- **LO4:** Experimenting with machine learning models for real-world classification tasks  
-- **LO5:** Communicating technical analysis and results clearly through written documentation  
+This project was developed as Major Course Output 3 (MCO3) for **CSINTSY – Introduction to Intelligent Systems** at De La Salle University. 
 
 Although both models achieved 100% accuracy, the emphasis of this project is on **comparative analysis**—examining why tree-based models perform exceptionally well on this dataset and discussing the implications of highly predictive features.
 
